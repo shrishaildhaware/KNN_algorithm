@@ -1,0 +1,16 @@
+
+.....................................................................................
+
+								Algorithem 
+									of 
+							K Nearest Number
+....................................................................................
+
+1.Take 100 examles of having 4 features and classified into 2 classes as "setosa" & "versicolor".
+2.Extract 80 examples as training set and 20 examples as test set.
+3.Find out euclidean distances for each test exapmle with respect to 80 training examples.
+4.select 'k' nearest euclidean distances.
+5.Find out the majority class of the selected 'k' nearest euclidean distances.
+6.Assign the mejority class as class of the respective test example.
+7.compare the evaluated result with the actual test set, and calculate the accuracy.
+8.Find out accuracy for different values of 'k'.
